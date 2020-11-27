@@ -12,14 +12,13 @@ HTML and CSS were made for the project to begin.  As the HTML was being created 
 Division of Labor:
 I, Megan, soley did all work for this.  
 
-Conclusion:
-This would be a good planner for anyone needing a basic planner.  
 
 Deployment:
 Deployment will be on webpage through Github. Users will be able to view through webpage listed down below as well. 
 
 Conclusion:
-Webpage is an introduction to learning about planners. 
+Webpage is an introduction to learning about planners. This would be a good planner for anyone needing a basic planner.  
+
 
 
 Link to deployed app
