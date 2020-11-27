@@ -1,11 +1,34 @@
 # Workday_Scheldue
 
-Creating a layout for a container for a scheldue 
-Created time slots
-Created save button
-Created all cooresponding time slots
-Put styles onto formated page
+Introduction:
+This assignment was to create a scheldue for the day.   
 
-Placing current day and time onto the top of the webpage
-Placing ability to add tasks onto the page
-Saving the task
+User Story:
+The user will be able to put an assignment on a certain date and have it be saved.  The date and current time will be shown on the webpage as well. 
+
+Technological Outline:
+HTML and CSS were made for the project to begin.  As the HTML was being created the CSS was going along as needed with styling to make the webpage pretty.  Javascript was also used. 
+
+Division of Labor:
+I, Megan, soley did all work for this.  
+
+Conclusion:
+This would be a good planner for anyone needing a basic planner.  
+
+Deployment:
+Deployment will be on webpage through Github. Users will be able to view through webpage listed down below as well. 
+
+Conclusion:
+Webpage is an introduction to learning about planners. 
+
+
+Link to deployed app
+https://meganlavallee.github.io/Workday_Scheldue/
+
+Contact Information: 
+Megan Lavallee
+megan.lavallee@yahoo.com
+719-321-8559
+
+Licensing Agreement:
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>
