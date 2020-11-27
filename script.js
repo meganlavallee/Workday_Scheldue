@@ -22,11 +22,8 @@ var yyyy = today.getFullYear();
 var utc = new Date().toJSON().slice(0, 10).replace(/-/g, '/');
 document.write(utc);
 
-Date.now()
 
-today = mm + '/' + dd + '/' + yyyy;
-document.write(today);
-localStorage.setItem('fas fa-save', 'value');
+
 
 
 localStorage.setItem('fas fa-save', 'fas fa save');
