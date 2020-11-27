@@ -19,6 +19,29 @@
     <p class="lead">A simple calendar app for scheduling your work day</p>
     <p id="currentDay" class="lead"></p>
     <p id="currentTime" class="lead"></p>
+    <html>
+
+
+    <script type="text/javascript">
+      function display_c() {
+        var refresh = 1000;
+        mytime = setTimeout('display_ct()', refresh)
+      }
+
+      function display_ct() {
+        var x = new Date()
+        document.getElementById('ct').innerHTML = x;
+        display_c();
+      }
+    </script>
+
+
+    <body onload=display_ct();>
+      <span id='ct'></span>
+
+    </body>
+
+    </html>
   </header>
 
   <div class="container">
