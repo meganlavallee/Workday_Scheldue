@@ -20,6 +20,7 @@ Conclusion:
 Webpage is an introduction to learning about planners. This would be a good planner for anyone needing a basic planner.  
 
 
+![workday](https://user-images.githubusercontent.com/73404164/100705249-2080f300-3364-11eb-8970-89de11082bea.png)
 
 Link to deployed app
 https://meganlavallee.github.io/Workday_Scheldue/
