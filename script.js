@@ -1,9 +1,8 @@
 // Local Storage
-window.localStorage.setItem('fas fa-save', 'fas fa-save');
-
-
 window.localStorage.getItem('user');
 JSON.parse(window.localStorage.getItem('user'));
+
+window.localStorage.setItem('fas fa-save', 'fas fa-save');
 
 localStorage.setItem('fas fa-save', 'fas fa save');
 const save = localStorage.getItem('fas fa save');
@@ -25,3 +24,11 @@ function display_c() {
 
 // Code doesn't follow good practices for class/id names, indentation, lacks quality comments Repo doesn't include a high quality README with screenshots, a description, link to deployed application
 
+if (current) {
+  else
+}
+// grab current from moment.js (api)
+// round current time to whole number
+// compare current time to other time
+
+// Document ready function in jquery
