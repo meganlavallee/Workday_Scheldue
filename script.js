@@ -20,11 +20,6 @@ function display_c() {
     display_c();
   }
 
-
-
-// Code doesn't follow good practices for class/id names, indentation, lacks quality comments Repo doesn't include a high quality README with screenshots, a description, link to deployed application
-
-
 function displayTime() {
   var time = moment().format('HH:mm:ss');
   var time2 = moment().format('MMMM Do YYYY, h:mm:ss a')
@@ -49,9 +44,13 @@ $(document).ready(function() {
 var moment = require('moment');
 var now = moment();
 moment("")
+
+
 // round current time to whole number
 var m = (((minutes + 7.5)/15 | 0) * 15) % 60;
 var h = ((((minutes/105) + .5) | 0) + hours) % 24;
+
+
 // compare current time to other time
 
 // Document ready function in jquery
